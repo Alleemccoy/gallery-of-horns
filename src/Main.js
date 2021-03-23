@@ -1,7 +1,7 @@
 import React from 'react';
 import HornedBeasts from './HornedBeasts';
 import './Main.css';
-import hornedBeastsConstants from './constants/hornedBeastsConstants';
+// import hornedBeastsConstants from './constants/hornedBeastsConstants';
 
 class Main extends React.Component {
   render() {
@@ -12,7 +12,8 @@ class Main extends React.Component {
     // })
     return (
       <main>
-
+        {/* do things here for images
+        do things here for images */}
       </main> 
     )
   }
