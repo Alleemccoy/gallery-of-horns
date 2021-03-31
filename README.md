@@ -5,6 +5,7 @@ Estimate of time needed to complete: 1 day
 Start Time: Saturday, May 27th at 3pm
 Finish Time: Tuesday, May 30th at 11pm
 Actual time needed to complete: 2 hours
+Additional Help From: Tom McGuire, Bryant Davis
 
 
 Number and name of feature: Feature #1: Display images
@@ -12,6 +13,7 @@ Estimate of time needed to complete: 1 day
 Start Time: Wednesday, May 24th at 8:30pm
 Finish Time: Thursday, May 25th 11:05pm
 Actual time needed to complete: 1-2 hours
+Additional Help From: Marie Marcos
 
 Number and name of feature: Feature #2: Allow users to vote for their favorite beast
 Estimate of time needed to complete:
