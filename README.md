@@ -1,22 +1,29 @@
 # Gallery of Horns
 
+Number and name of feature: Feature #1: Display a Modal
+Estimate of time needed to complete: 1 day
+Start Time: Saturday, May 27th at 3pm
+Finish Time:
+Actual time needed to complete: 1-2 hours
+
+
 Number and name of feature: Feature #1: Display images
 Estimate of time needed to complete: 1 day
 Start Time: Wednesday, May 24th at 8:30pm
 Finish Time: Thursday, May 25th 11:05pm
-Actual time needed to complete: 
+Actual time needed to complete: 1-2 hours
 
 Number and name of feature: Feature #2: Allow users to vote for their favorite beast
 Estimate of time needed to complete:
 Start Time: Wednesday, May 24th at 8:30pm
 Finish Time: Thursday, May 25th 11:05pm
-Actual time needed to complete: 
+Actual time needed to complete: 1-2 hours
 
 Number and name of feature: Feature #3: Bootstrap
 Estimate of time needed to complete:
 Start Time: Wednesday, May 24th at 8:30pm
 Finish Time: Thursday, May 25th 11:05pm
-Actual time needed to complete: 
+Actual time needed to complete: 1-2 hours
 
 # Getting Started with Create React App
 
