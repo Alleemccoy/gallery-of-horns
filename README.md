@@ -3,8 +3,8 @@
 Number and name of feature: Feature #1: Display a Modal
 Estimate of time needed to complete: 1 day
 Start Time: Saturday, May 27th at 3pm
-Finish Time:
-Actual time needed to complete: 1-2 hours
+Finish Time: Tuesday, May 30th at 11pm
+Actual time needed to complete: 2 hours
 
 
 Number and name of feature: Feature #1: Display images

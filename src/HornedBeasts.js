@@ -1,6 +1,5 @@
 import React from 'react';
 import './HornedBeasts.css';
-import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
 class HornedBeasts extends React.Component {
@@ -14,16 +13,16 @@ class HornedBeasts extends React.Component {
     }
   };
 
-  vote = () => {
+  handleClick = () => {
+    this.props.handleSelectChange(this.props.title);
     this.setState({ numberOfClicks: this.state.numberOfClicks + 1 });
-    this.setState({ numberOfStars: '✨' });
   }
 
   render() {
     return (
 
       <Card>
-        <Card.Img variant="top" src={this.props.image_url} />
+        <Card.Img onClick={this.handleClick} variant="top" src={this.props.image_url} />
         <Card.Body>
           <Card.Title>{this.props.title}</Card.Title>
           <Card.Text>
@@ -34,7 +33,6 @@ class HornedBeasts extends React.Component {
             </p>
 
           </Card.Text>
-          <Button onClick={this.vote}>Vote Here</Button>
         </Card.Body>
       </Card>
     );
